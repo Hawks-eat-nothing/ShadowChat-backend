@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: netty-demo
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://101.132.131.114:3306/shadow_chat?serverTimezone=UTC
+    username: root
+    password: 1021
+
+server:
+  port: 1023
